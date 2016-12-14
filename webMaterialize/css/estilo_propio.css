@@ -1,0 +1,12 @@
+body {
+  background-color: orange;
+  background-position: 0 150px;
+  background-repeat: no-repeat;
+  background-image: url(../img/fondo.jpg);
+  background-attachment: fixed;
+}
+
+#articulos {
+  background-color: white;
+  border-radius: 5px;
+}
