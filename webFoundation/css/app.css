@@ -1,0 +1,80 @@
+body {
+  background-image: url(../img/fondo.jpg);
+  background-attachment: fixed;
+}
+
+#slogan{
+  background-color:rgba(142, 19, 41 , 0.5);
+  color: white;
+}
+
+#cuerpo{
+  background-color:rgba(142, 19, 41 , 0.5);
+  color: white;
+}
+
+#columna1{
+  background-color:rgba( 47, 108, 65  , 1);
+  color: white;
+  border-radius:5px;
+}
+
+#columna2{
+  background-color:rgba( 47, 108, 65  , 1);
+  color: white;
+  border-radius: 5px;
+}
+
+#enlaces a{
+  background-color: rgba( 47, 108, 65  , 1);
+  text-align: center;
+  border-radius: 50px;
+  color:white;
+  box-shadow: 0 0 0 1px;
+  margin: 6px;
+}
+
+#imagenes1 div img {
+  padding: 3px;
+  border-radius: 3px;
+  box-shadow: 0 0 0 1px;
+}
+
+#imagenes2 div img {
+  margin-top: 8px;
+  padding: 3px;
+  border-radius: 3px;
+  box-shadow: 0 0 0 1px;
+}
+
+#comentario1 {
+  box-shadow:0 0 0 1px;
+  background-color:white;
+  color:black;
+  border-radius:5px;
+  margin: 10px;
+}
+
+#comentario2 {
+  box-shadow:0 0 0 1px;
+  background-color:white;
+  color:black;
+  border-radius:5px;
+  margin: 10px;
+}
+
+#comentario3 {
+  box-shadow:0 0 0 1px;
+  background-color:white;
+  color:black;
+  border-radius:5px;
+  margin: 10px;
+}
+
+#comentario4 {
+  box-shadow:0 0 0 1px;
+  background-color:white;
+  color:black;
+  border-radius:5px;
+  margin: 10px;
+}
